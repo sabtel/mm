@@ -181,7 +181,7 @@ body .neon-glow {
     max-width: 500px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    zoom: 2;
+    zoom: 1;
 }
 
 .guide-content h2 {
@@ -217,7 +217,7 @@ body .neon-glow {
     text-align: center;
     padding: 60px 40px;
     width: 80%;
-    zoom: 100%;
+    zoom: 50%;
     position: relative;
     animation: fadeIn 1s ease-out;
     
